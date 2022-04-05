@@ -6,7 +6,7 @@ use App\Models\Author;
 use App\Http\Requests\StoreAuthorRequest;
 use App\Http\Requests\UpdateAuthorRequest;
 
-class AuthorController extends Controller
+class AuthorsController extends Controller
 {
     /**
      * Display a listing of the resource.
